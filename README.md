@@ -7,10 +7,10 @@ In this code-along, we'll show you how to pass data back to views from your cont
 
 ## Objectives
 
-1. Review passing data from a form to a controller using `params`
-2. Manipulate data inside of a route in the controller
-3. Assign data to an instance variable
-4. Render data in a `.erb` file using erb tags.
+1. Review passing data from a form to a controller using `params`.
+2. Manipulate data inside of a route in the controller.
+3. Assign data to an instance variable.
+4. Render data in an `.erb` file using erb tags.
 
 ## Setup
 
